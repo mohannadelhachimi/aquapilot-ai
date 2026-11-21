@@ -1,0 +1,173 @@
+{
+  "rules": {
+    "quota_m3_ha_mois": {
+      "Dakhla": 2000,
+      "Laâyoune": 2000,
+      "Guelmim": 2000
+    },
+    "prix_ref": 3.0,
+    "prix_plafond": 3.5,
+    "seuil_economie": 0.2
+  },
+  "accounts": {
+    "ferme1": {
+      "name": "Ferme Atlantique",
+      "province": "Dakhla",
+      "balance": 0,
+      "closed_months": [],
+      "simulated": false
+    },
+    "ferme2": {
+      "name": "Ferme Saguia",
+      "province": "Laâyoune",
+      "balance": 0,
+      "closed_months": [],
+      "simulated": false
+    },
+    "DAK-02": {
+      "name": "Ferme DAK-02",
+      "province": "Dakhla",
+      "balance": 300,
+      "closed_months": [],
+      "simulated": true
+    },
+    "DAK-03": {
+      "name": "Ferme DAK-03",
+      "province": "Dakhla",
+      "balance": 150,
+      "closed_months": [],
+      "simulated": true
+    },
+    "LAY-02": {
+      "name": "Ferme LAY-02",
+      "province": "Laâyoune",
+      "balance": 400,
+      "closed_months": [],
+      "simulated": true
+    },
+    "LAY-03": {
+      "name": "Ferme LAY-03",
+      "province": "Laâyoune",
+      "balance": 250,
+      "closed_months": [],
+      "simulated": true
+    },
+    "GUE-01": {
+      "name": "Ferme GUE-01",
+      "province": "Guelmim",
+      "balance": 250,
+      "closed_months": [],
+      "simulated": true
+    },
+    "GUE-04": {
+      "name": "Ferme GUE-04",
+      "province": "Guelmim",
+      "balance": 400,
+      "closed_months": [],
+      "simulated": true
+    }
+  },
+  "offers": [
+    {
+      "id": 7,
+      "seller": "DAK-02",
+      "province": "Dakhla",
+      "qty": 300,
+      "price": 3.4,
+      "created": "2026-11-12T12:20:40"
+    },
+    {
+      "id": 8,
+      "seller": "DAK-03",
+      "province": "Dakhla",
+      "qty": 150,
+      "price": 3.0,
+      "created": "2026-11-12T12:20:40"
+    },
+    {
+      "id": 9,
+      "seller": "LAY-02",
+      "province": "Laâyoune",
+      "qty": 400,
+      "price": 3.2,
+      "created": "2026-11-12T12:20:40"
+    },
+    {
+      "id": 10,
+      "seller": "GUE-01",
+      "province": "Guelmim",
+      "qty": 250,
+      "price": 3.6,
+      "created": "2026-11-12T12:20:40"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "time": "2026-11-12T12:20:40",
+      "type": "credit",
+      "seller": "",
+      "buyer": "DAK-02",
+      "qty": 600,
+      "price": 0.0,
+      "province": "Dakhla",
+      "note": "Solde initial de démonstration"
+    },
+    {
+      "id": 2,
+      "time": "2026-11-12T12:20:40",
+      "type": "credit",
+      "seller": "",
+      "buyer": "DAK-03",
+      "qty": 300,
+      "price": 0.0,
+      "province": "Dakhla",
+      "note": "Solde initial de démonstration"
+    },
+    {
+      "id": 3,
+      "time": "2026-11-12T12:20:40",
+      "type": "credit",
+      "seller": "",
+      "buyer": "LAY-02",
+      "qty": 800,
+      "price": 0.0,
+      "province": "Laâyoune",
+      "note": "Solde initial de démonstration"
+    },
+    {
+      "id": 4,
+      "time": "2026-11-12T12:20:40",
+      "type": "credit",
+      "seller": "",
+      "buyer": "LAY-03",
+      "qty": 250,
+      "price": 0.0,
+      "province": "Laâyoune",
+      "note": "Solde initial de démonstration"
+    },
+    {
+      "id": 5,
+      "time": "2026-11-12T12:20:40",
+      "type": "credit",
+      "seller": "",
+      "buyer": "GUE-01",
+      "qty": 500,
+      "price": 0.0,
+      "province": "Guelmim",
+      "note": "Solde initial de démonstration"
+    },
+    {
+      "id": 6,
+      "time": "2026-11-12T12:20:40",
+      "type": "credit",
+      "seller": "",
+      "buyer": "GUE-04",
+      "qty": 400,
+      "price": 0.0,
+      "province": "Guelmim",
+      "note": "Solde initial de démonstration"
+    }
+  ],
+  "next_id": 11
+}

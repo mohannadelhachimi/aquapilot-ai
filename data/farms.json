@@ -1,0 +1,26 @@
+{
+  "ferme1": {
+    "province": "Dakhla",
+    "lat": 23.688861,
+    "lon": -15.949402,
+    "crop": "Tomate",
+    "area_ha": 5.0,
+    "irrigation": "Goutte-à-goutte",
+    "water_source": "Eau dessalée",
+    "ec_water": 1.1,
+    "ece_soil": 2.5,
+    "planting_date": "2026-08-20"
+  },
+  "ferme2": {
+    "province": "Dakhla",
+    "lat": 23.694206,
+    "lon": -15.948715,
+    "crop": "Tomate",
+    "area_ha": 3.0,
+    "irrigation": "Goutte-à-goutte",
+    "water_source": "Eau dessalée",
+    "ec_water": 1.1,
+    "ece_soil": 1.1,
+    "planting_date": "2026-11-06"
+  }
+}

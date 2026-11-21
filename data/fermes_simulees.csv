@@ -1,0 +1,13 @@
+farm_id,province,lat,lon,crop,area_ha
+DAK-01,Dakhla,23.76699,-15.97534,Melon,8.7
+DAK-02,Dakhla,23.56305,-15.81431,Pomme de terre,9.4
+DAK-03,Dakhla,23.77062,-16.06857,Pomme de terre,5.1
+DAK-04,Dakhla,23.81283,-15.91384,Melon,10.1
+LAY-01,Laâyoune,27.10832,-13.24433,Tomate,1.7
+LAY-02,Laâyoune,27.22359,-13.123,Pastèque,9.3
+LAY-03,Laâyoune,27.08166,-13.02129,Melon,9.6
+LAY-04,Laâyoune,27.03369,-13.17248,Pomme de terre,1.5
+GUE-01,Guelmim,28.88329,-10.00249,Pomme de terre,11.6
+GUE-02,Guelmim,28.93475,-10.09626,Courgette,6.2
+GUE-03,Guelmim,28.89384,-10.16842,Courgette,3.5
+GUE-04,Guelmim,29.03794,-10.07625,Melon,10.2
