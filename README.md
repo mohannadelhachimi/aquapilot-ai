@@ -7,7 +7,7 @@
 **Gestion intelligente de l'eau pour les Provinces du Sud du Maroc**
 Dakhla · Laâyoune · Guelmim
 
-[**Démo en ligne**](LIEN_STREAMLIT) · [Signaler un problème](../../issues)
+[**Démo en ligne**](https://aquapilot-ai.streamlit.app) · [Signaler un problème](../../issues)
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-app-red) ![Licence](https://img.shields.io/badge/Licence-MIT-green) ![Statut](https://img.shields.io/badge/Statut-prototype-orange)
 
